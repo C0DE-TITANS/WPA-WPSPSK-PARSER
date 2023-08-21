@@ -6,7 +6,8 @@ A moded version of python based wifi attacker tool wpadump
 * Rooted Android device (If you using Termux)
 
 # Usage
-* sudo python titans.py -i wlan0 --iface-down -K
+* git clone https://github.com/C0DE-TITANS/WPA-WPSPSK-PARSER.git
+* sudo python WPA-WPSPSK-PARSER/titans.py -i wlan0 --iface-down -K
 
 # Tasted On
 * Termux
